@@ -1,8 +1,8 @@
 # ****************************************************************************
-# * svc-toolbox.common                                                    *
+# * svc-toolbox.common                                                       *
 # * Module for common classes and functions                                  *
 # * Author: Roberto Etcheverry (retcheverry@roer.com.ar)                     *
-# * Ver: 1.0.11 2020/07/04                                                   *
+# * Ver: 1.0.0 2020/09/20                                                    *
 # ****************************************************************************
 
 # Import logger for the main log file

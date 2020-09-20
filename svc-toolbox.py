@@ -2,7 +2,7 @@
 # * svc-toolbox                                                              *
 # * Collection of tools for SVC                                              *
 # * Author: Roberto Etcheverry (retcheverry@roer.com.ar)                     *
-# * Ver: 1.0.0 15/09/2020                                                    *
+# * Ver: 1.0.0 2020/09/20                                                    *
 # ****************************************************************************
 # Import argparse and path to parse command line arguments and use path utilities
 import argparse
